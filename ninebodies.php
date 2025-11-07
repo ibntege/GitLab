@@ -26,7 +26,7 @@
     </div>
     <?php
        date_default_timezone_set("America/New_York");
-       echo "Leo Dunia". "<br>";
+       echo "Ibrahim Ntege". "<br>";
        echo "PHP version: ".phpversion(). "<br>";
        echo "Today's date: ".date("m-d-Y") . "<br>";
        echo "Curent time: ".date("H:i:s") . "<br>";
